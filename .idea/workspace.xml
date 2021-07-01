@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df69af5a-6ceb-49ea-bf46-22534f576595" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ubdKU2DEVTtAFJ9dWpgAhaNgxK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Abraction">
+    <configuration name="Abraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Abraction" />
+      <module name="Day_2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Employee" />
+      <module name="Day_2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InherDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InherDemo" />
+      <module name="Day_2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Day_2.1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Self_Archiever_Inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Self_Archiever_Inheritence" />
+      <module name="Day_2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Abraction" />
+      <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.InherDemo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Self_Archiever_Inheritence" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Abraction" />
+        <item itemvalue="Application.InherDemo" />
+        <item itemvalue="Application.Self_Archiever_Inheritence" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Employee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df69af5a-6ceb-49ea-bf46-22534f576595" name="Default Changelist" comment="" />
+      <created>1624938158522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624938158522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1624947712665">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1624947712665" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624941888249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1624941888249" />
+    <state width="1237" height="144" key="GridCell.Tab.0.bottom" timestamp="1624976332389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="144" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624976332389" />
+    <state width="1237" height="144" key="GridCell.Tab.0.center" timestamp="1624976332389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="144" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624976332389" />
+    <state width="1237" height="144" key="GridCell.Tab.0.left" timestamp="1624976332388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="144" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624976332388" />
+    <state width="1237" height="144" key="GridCell.Tab.0.right" timestamp="1624976332389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="144" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624976332389" />
+    <state x="298" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624946763068">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1624946763068" />
+    <state x="91" y="0" key="new project wizard" timestamp="1625025700473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1625025700473" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Day_2_1$Self_Archiever_Inheritence.ic" NAME="Self_Archiever_Inheritence Coverage Results" MODIFIED="1624947289627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
